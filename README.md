@@ -6,4 +6,5 @@ View live website on: https://aromatic.snowiewongdev.com/
 
 ## JS libraries used
 GlideJS: https://glidejs.com/
-AOSJS: https://michalsnik.github.io/aos/
+
+AOS: https://michalsnik.github.io/aos/
