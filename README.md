@@ -2,7 +2,7 @@
 
 This is a demo landing page designed for a perfume shop. It is built using HTML, SCSS and JavaScript with some JS libraries.
 
-View live website on: https://aromatic.snowiewongdev.com/
+View live website on: https://aromatic-snowiewdev.netlify.app
 
 ## JS libraries used
 GlideJS: https://glidejs.com/
